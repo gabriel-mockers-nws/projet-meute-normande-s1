@@ -4,13 +4,13 @@ GENERAL :
     header + footer
     Intégration des réseaux Sociaux
     logo vectoriel
-    font utilisé pour titre & logo : Norsse (regular & bolt) https://www.1001fonts.com/norse-font.html
+    font utilisé pour titre & logo : Norse (regular & bolt) https://www.1001fonts.com/norse-font.html
     Partie "covoit" à retirer
     Aide & conseils à retirer
     Responsive
     Charte graphique
 
-ACCEUIL :
+ACCUEIL :
     Bannière
     Derniers posts des réseaux sociaux
 
