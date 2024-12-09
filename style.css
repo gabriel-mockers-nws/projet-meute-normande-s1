@@ -1,0 +1,40 @@
+/* Creation des polices perso */ 
+@font-face {
+    font-family: "Norse";
+    src: url(/fonts/Norse.otf) format(opentype);
+    font-weight: 400;
+}
+  
+  @font-face {
+    font-family: "Norse";
+    src: url(/Fonts/Norse-Bold.otf) format(opentype);
+    font-weight: 700;
+}
+
+:root {
+
+/* Colors */
+    --color-red: #fd0008;
+    --color-yellow: #ffdc00;
+    --color-orange-light: #ff8a00;
+    --color-orange: #ff9100;
+    --color-white: #ffffff;
+    --color-primary: #F6F5F2;
+    --color-secondary: #320000;
+
+/* Fonts */
+    --font-family-heading: "Norse", serif;
+    --font-family-base: "Roboto", serif;
+
+/* Font weight */
+    --font-weight-normal: 400;
+    --font-weight-bold: 700;
+
+/* Font size*/
+    --font-size-base: clamp(1rem, 0.929rem + 0.2273vw, 1.125rem);
+    --font-size-lg: clamp(1.125rem, 0.9119rem + 0.6818vw, 1.5rem);
+    --font-size-xl: clamp(2.125rem, 1.7131rem + 1.3182vw, 2.85rem);
+    --font-size-2xl: clamp(2.5rem, 1.7898rem + 2.2727vw, 3.75rem);
+
+
+}
