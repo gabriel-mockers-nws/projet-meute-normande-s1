@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <div>
+        <div class="header-general">
             <div classclass="boxe-header-logo">
                 <img class="iamge-logo-header" src="" alt="">
             </div>

@@ -59,7 +59,9 @@ nav a {
 
 
 /* LAYOUT */
-container {}
+a {
+    text-decoration: none;
+}
 
 ul { 
     display: flex;
@@ -78,5 +80,11 @@ li {
     text-decoration: none;
     
     }
+.header-general {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 
 
