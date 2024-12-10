@@ -9,6 +9,24 @@
 </head>
 <body>
     <header>
-        <h1>La meute Normande</h1>
+        <div>
+            <div >
+                <img class="iamge-logo-header" src="" alt="">
+            </div>
+            <div>
+                <ul>
+                    <li> Acceuil</li> 
+                    <li><a href="">Qui somme-nous </a></li>
+                    <li> <a href="">Galerie </a></li>
+                    <li> <a href="">Événements </a></li>
+                    <li> <a href="">Conctacte </a></li>
+                    <li> <a href="">Lien utile </a></li>
+
+                </ul>
+             
+        <a href=""></a>
+            </div>
+        </div>
+        
     </header>
     <main>
