@@ -38,16 +38,45 @@
 
 
 }
-
+/* BASE */
 h1 {
     font-family: var(--font-family-heading)
 }
 
-.header-nav a{
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    text-decoration: nones;
+}
+
+nav a {
+    text-emphasis: none;
     text-decoration: none;
 }
 
-.header-nav li {
-    list-style-type: none;
+
+
+
+/* LAYOUT */
+container {}
+
+ul { 
+    display: flex;
+    gap: 1rem;
 }
+
+li {
+    list-style: none;
+}
+
+
+
+/* COMPONENTS */
+.header-nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    }
+
 
