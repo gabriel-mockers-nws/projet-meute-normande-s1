@@ -47,4 +47,7 @@ h1 {
     text-decoration: none;
 }
 
+.header-nav li {
+    list-style-type: none;
+}
 
