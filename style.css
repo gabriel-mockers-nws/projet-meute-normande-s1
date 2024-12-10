@@ -42,3 +42,9 @@
 h1 {
     font-family: var(--font-family-heading)
 }
+
+.header-nav a{
+    text-decoration: none;
+}
+
+

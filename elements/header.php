@@ -13,7 +13,7 @@
             <div classclass="boxe-header-logo">
                 <img class="iamge-logo-header" src="" alt="">
             </div>
-            <div class="boxe-header-nav">
+            <div class="header-nav">
                 <ul>
                     <li><a href="">Acceuil </a></li> 
                     <li><a href="">Qui somme-nous </a></li>
