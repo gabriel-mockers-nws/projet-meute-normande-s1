@@ -70,6 +70,7 @@ ul {
 
 li {
     list-style: none;
+
 }
 
 
@@ -89,10 +90,9 @@ li {
 
 .boxe-header-connection a {
     display: block;
-    background-color: var(--color-orange-light);
-    
-    
-    
-    
+    background-color: var(--color-orange-light); 
 }
 
+.image-logo-header {
+    height: 90px;
+}
