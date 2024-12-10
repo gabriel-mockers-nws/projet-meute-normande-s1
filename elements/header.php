@@ -11,7 +11,7 @@
     <header>
         <div class="header-general">
             <div classclass="boxe-header-logo">
-                <img class="iamge-logo-header" src="" alt="">
+                <img class="iamge-logo-header" src="../images/la meute normandemodif 2 clean.png" height="90px" alt="">
             </div>
             <div class="header-nav">
                 <ul>
