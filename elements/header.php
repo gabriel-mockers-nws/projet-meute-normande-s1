@@ -10,12 +10,12 @@
 <body>
     <header>
         <div>
-            <div >
+            <div classclass="boxe-header-logo">
                 <img class="iamge-logo-header" src="" alt="">
             </div>
-            <div>
+            <div class="boxe-header-nav">
                 <ul>
-                    <li> Acceuil</li> 
+                    <li><a href="">Acceuil </a></li> 
                     <li><a href="">Qui somme-nous </a></li>
                     <li> <a href="">Galerie </a></li>
                     <li> <a href="">Événements </a></li>
@@ -23,9 +23,13 @@
                     <li> <a href="">Lien utile </a></li>
 
                 </ul>
-             
-        <a href=""></a>
             </div>
+            <div class="boxe-header-connection">
+                <a class="Button-connection" href="">Connection/Inscription</a>
+
+            </div>
+                
+
         </div>
         
     </header>
