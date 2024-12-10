@@ -1,5 +1,9 @@
 <?php require_once 'elements/header.php'; ?>
-<p>hello world</p>
-<?php require_once 'elements/footer.php'; ?>
 
+
+  <img class="image-bannière" src="images/IMG_4448_m.JPG" alt="Photo meute" height="100%">
+
+
+
+<?php require_once 'elements/footer.php'; ?>
 

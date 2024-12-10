@@ -55,7 +55,10 @@ nav a {
     text-decoration: none;
 }
 
-
+header {
+    background-color: var(--color-orange);
+    height: max-content;
+}
 
 
 /* LAYOUT */
@@ -76,15 +79,20 @@ li {
 
 
 /* COMPONENTS */
+.header-nav {
+     padding-left: 5%;
+}
+
+
 .header-nav a {
     text-transform: uppercase;
     text-decoration: none;
-    font-size: var(--font-size-lg);
+    font-size: var(--font-size-base);
     
     }
 
 .header-nav li {
-    padding: 60px;
+    padding: 15px;
     
 } 
 
@@ -98,10 +106,11 @@ li {
 .boxe-header-connection a {
     display: block;
     background-color: var(--color-orange-light); 
-    font-size: var(--font-size-lg);
+    font-size: var(--font-size-base);
     
 }
 
 .image-logo-header {
-    height: 140px;
+    height: 90px;
+    background-color: var(--color-primary);
 }
