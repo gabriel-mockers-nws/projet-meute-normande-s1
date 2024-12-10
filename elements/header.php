@@ -15,12 +15,12 @@
             </div>
             <div class="header-nav">
                 <ul>
-                    <li><a href="">Acceuil </a></li> 
-                    <li><a href="">Qui somme-nous </a></li>
-                    <li> <a href="">Galerie </a></li>
-                    <li> <a href="">Événements </a></li>
-                    <li> <a href="">Conctacte </a></li>
-                    <li> <a href="">Lien utile </a></li>
+                    <li><a href="../pages/">Acceuil </a></li> 
+                    <li><a href="../pages/description.php">Qui somme-nous </a></li>
+                    <li> <a href="../pages/galery.php">Galerie </a></li>
+                    <li> <a href="../pages/evenements.php">Événements </a></li>
+                    <li> <a href="../pages/contact.php">Conctacte </a></li>
+                    <li> <a href="../pages/use-links.php">Lien utile </a></li>
 
                 </ul>
             </div>

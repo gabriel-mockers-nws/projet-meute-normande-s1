@@ -84,7 +84,15 @@ li {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    justify-items: center;
 }
 
-
+.boxe-header-connection a {
+    display: block;
+    background-color: var(--color-orange-light);
+    
+    
+    
+    
+}
 
