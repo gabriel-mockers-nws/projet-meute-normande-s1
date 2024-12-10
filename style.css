@@ -79,8 +79,15 @@ li {
 .header-nav a {
     text-transform: uppercase;
     text-decoration: none;
+    font-size: var(--font-size-lg);
     
     }
+
+.header-nav li {
+    padding: 60px;
+    
+} 
+
 .header-general {
     display: flex;
     align-items: center;
@@ -91,8 +98,10 @@ li {
 .boxe-header-connection a {
     display: block;
     background-color: var(--color-orange-light); 
+    font-size: var(--font-size-lg);
+    
 }
 
 .image-logo-header {
-    height: 90px;
+    height: 140px;
 }
