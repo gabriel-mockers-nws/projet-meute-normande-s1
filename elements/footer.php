@@ -1,6 +1,7 @@
 </main>
 
-<footer><div class="copyright">©"La Meute Normande", Mai 2022 - Décembre 2024. TOUS DROITS RÉSERVÉS.</div>
+<footer>
+    <div class="copyright">©"La Meute Normande", Mai 2022 - Décembre 2024. TOUS DROITS RÉSERVÉS.</div>
 
 </footer> 
 </body>
