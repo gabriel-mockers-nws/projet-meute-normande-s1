@@ -9,6 +9,6 @@
 </head>
 <body>
     <header>
-        <h1>La meute Normande</h1>
+        
     </header>
     <main>
