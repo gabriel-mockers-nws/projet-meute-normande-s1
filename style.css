@@ -114,3 +114,12 @@ li {
     height: 90px;
     background-color: var(--color-primary);
 }
+
+
+.banniere {
+    display: flex;
+    flex-direction: column;
+    background-image:url(images/IMG_4448_m.JPG) ;
+    height: 50%;
+    width: 50%;
+}
