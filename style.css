@@ -110,9 +110,8 @@ li {
     
 }
 
-.image-logo-header {
-    height: 90px;
-    background-color: var(--color-primary);
+.header-logo {
+    height: 100px;
 }
 
 

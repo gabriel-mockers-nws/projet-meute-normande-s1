@@ -11,13 +11,12 @@
     <header>
         <div class="header-general">
             <div classclass="boxe-header-logo">
-                <img class="image-logo-header" src="../images/la meute normandemodif 2 clean.png" alt="Logo de la meute">
+                <a href="../index.php" class="header-logo">
+                <img src="../images/la meute normandemodif 2 clean.png" alt="Logo de la meute" height="100">
+                </a>
             </div>
             <div class="header-nav">
-                <ul>
-                    <li> 
-                        <a href="../pages/index.php">Acceuil </a>
-                    </li> 
+                <ul> 
 
                     <li> 
                         <a href="../pages/description.php">Qui somme-nous </a>
