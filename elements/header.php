@@ -16,7 +16,7 @@
             <div class="header-nav">
                 <ul>
                     <li> 
-                        <a href="../pages/index">Acceuil </a>
+                        <a href="../pages/index.php">Acceuil </a>
                     </li> 
 
                     <li> 
