@@ -1,4 +1,5 @@
 <?php 
+//fonction pour le menu de navigation 
 function nav_item(string $linkClass = ''):string 
 {
     return 
