@@ -43,6 +43,8 @@ h1 {
     font-family: var(--font-family-heading)
 }
 
+
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -62,6 +64,7 @@ header {
 
 
 /* LAYOUT */
+
 a {
     text-decoration: none;
 }
