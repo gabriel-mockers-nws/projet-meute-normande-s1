@@ -1,6 +1,6 @@
 <?php require_once 'elements/header.php'; ?>
 
-  <div>
+  <div class="banniere">
     <h1> Bienvenue sur le site de <br>
           La Meute Normande </h1>
 

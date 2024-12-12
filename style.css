@@ -39,6 +39,13 @@
 
 }
 /* BASE */
+body{
+    width: 1910px;
+    margin: auto;
+    
+
+}
+
 h1 {
     font-family: var(--font-family-heading)
 }
@@ -59,6 +66,7 @@ nav a {
 
 header {
     background-color: var(--color-orange);
+    background-repeat: no-repeat;
     height: max-content;
 }
 
@@ -119,11 +127,11 @@ li {
 
 
 .banniere {
-    display: flex;
-    flex-direction: column;
     background-image:url(images/IMG_4448_m.JPG) ;
-    height: 50%;
-    width: 50%;
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+  
 }
 
 .footer {
