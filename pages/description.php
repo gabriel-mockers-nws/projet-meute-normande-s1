@@ -1,2 +1,4 @@
-<? require_once './elements/header.php' ?> 
+<? 
+$title = "Description"; 
+require_once './elements/header.php' ?> 
 <? require_once './elements/footer.php' ?> 

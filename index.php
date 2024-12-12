@@ -1,4 +1,6 @@
-<?php require_once 'elements/header.php'; ?>
+<?php
+$title = "Acceuil";
+require_once 'elements/header.php'; ?>
 
   <div class="banniere">
     <h1> Bienvenue sur le site de <br>

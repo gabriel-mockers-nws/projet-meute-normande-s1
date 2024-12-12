@@ -1,2 +1,4 @@
-<? require_once './elements/header.php' ?> 
+<?
+$title = "Liens utiles";
+require_once './elements/header.php' ?> 
 <? require_once './elements/footer.php' ?> 
