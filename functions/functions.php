@@ -2,7 +2,8 @@
 //fonction pour les item de navigation (a faire)
 
 //fonction pour le menu de navigation 
-function nav_item(string $linkClass = ''):string //on créer la fonction 
+
+/*function nav_menu(string $linkClass = ''):string //on créer la fonction 
 {
     //on retourne les valeur des page en cliquable
     return 
@@ -12,5 +13,5 @@ function nav_item(string $linkClass = ''):string //on créer la fonction
     nav_item('../pages/galery.php', 'Galerie', $linkClass) .
     nav_item('../pages/use-link', 'Liens utiles', $linkClass) ;
 }
-
+*/
 ?>
