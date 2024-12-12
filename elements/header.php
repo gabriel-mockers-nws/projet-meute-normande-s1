@@ -22,20 +22,20 @@
                 <ul> 
 
                     <li> 
-                        <a href="../pages/description.php">Qui somme-nous </a>
+                        <a href="../pages/description.php">Qui somme-nous?</a>
                     </li>
                     
                     <li> 
-                        <a href="../pages/galery.php">Galerie </a>
+                        <a href="../pages/galery.php">Galerie</a>
                     </li>
                     <li> 
-                        <a href="../pages/evenements.php">Événements </a>
+                        <a href="../pages/evenements.php">Événements</a>
                     </li>
                     <li> 
-                        <a href="../pages/contact.php">Conctacte </a>
+                        <a href="../pages/contact.php">Conctact</a>
                     </li>
                     <li> 
-                        <a href="../pages/use-links.php">Lien utile </a>
+                        <a href="../pages/use-links.php">Liens utiles</a>
                     </li>
 
                 </ul>
