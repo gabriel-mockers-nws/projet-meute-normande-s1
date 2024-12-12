@@ -8,7 +8,14 @@
     <meta name="keyword" content="La meute Normande, furry, Normandie">
     <link rel="stylesheet" href="../style.css">
     <script src="script.js"></script>
-    <title>La Meute Normande</title>
+    <title>
+        <!-- on fait une fonction pour changer le titre de chaque page -->
+         <?php if (isset($title)) : ?>  <!-- si le titre est désigé  -->
+            <?= $title ?> <!-- on l'affiche  -->
+        <?php else : ?> <!-- Sinon  -->
+            Mon site <!-- on met un titre par défaut  -->
+        <?php endif ?> <!-- fin de condition  -->
+    </title>
 </head>
 <body>
     <header>
