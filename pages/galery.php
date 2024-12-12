@@ -1,2 +1,4 @@
-<? require_once './elements/header.php' ?> 
+<?
+$title = "Galerie";
+require_once './elements/header.php' ?> 
 <? require_once './elements/footer.php' ?> 
