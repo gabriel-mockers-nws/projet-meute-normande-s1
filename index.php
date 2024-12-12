@@ -1,7 +1,12 @@
 <?php require_once 'elements/header.php'; ?>
 
+  <div>
+    <h1> Bienvenue sur le site de <br>
+          La Meute Normande </h1>
 
-  <img class="image-banniere" src="images/IMG_4448_m.JPG" alt="Photo meute" height="100%">
+    <p>Un groupe de furry Normand passionné par l'art anthropomorphique</p>
+  </div>
+  
 
 
 
