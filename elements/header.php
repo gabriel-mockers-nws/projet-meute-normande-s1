@@ -7,6 +7,7 @@
     <meta name="creator" content="Kylian Varin (Whitebat), Kimberley Lefevbre (Shinza), Gabriel Mockers (Legiolf)"> 
     <meta name="keyword" content="La meute Normande, furry, Normandie">
     <link rel="stylesheet" href="../style.css">
+    <!--<link rel="stylesheet" href="../hilight.css">-->
     <script src="script.js"></script>
     <!-- on fait une fonction pour changer le titre de chaque page -->
     <title>
@@ -27,11 +28,9 @@
             </div>
             <div class="header-nav">
                 <ul> 
-
                     <li> 
                         <a href="../pages/description.php">Qui somme-nous?</a>
                     </li>
-                    
                     <li> 
                         <a href="../pages/galery.php">Galerie</a>
                     </li>
@@ -44,17 +43,14 @@
                     <li> 
                         <a href="../pages/use-links.php">Liens utiles</a>
                     </li>
-
                 </ul>
             </div>
             
             <div class="boxe-header-connection">
-                <a class="Button-connection" href="">Connection/Inscription</a>
-
+                <a class="Button-connection" href="">
+                    <button value="Connection/Inscription">Connection/Inscription</button>
+                </a>
             </div>
-                
-
         </div>
-        
     </header>
     <main>
