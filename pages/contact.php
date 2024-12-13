@@ -33,7 +33,8 @@ require_once './elements/header.php'
             <p>(Les informations renseigner d'avant avoir sélectionner "Anonyme" sont gardé, pensez à les supprimer.)</p>
         </div>
         <section>
-            <h2>Quel est la raison de votre </h2>
+            <h2>Quel est la raison de votre contact*</h2>
+            
         </section>
 
 
