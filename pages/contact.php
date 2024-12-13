@@ -25,19 +25,20 @@ require_once '../elements/header.php'
         </div>
         <div>
             <label for="pseudo">Pseudo</label>
-            <input type="text" id="pseudo" name="pseudo">
-            
+            <input type="text" id="pseudo" name="pseudo"> 
         </div>
+
         <div>
             <label for="email">Votre email :<span aria-label="required">*</span></label>
             <input id="email" type="email" name="email" require>
-
         </div>
+
         <div>
             <h3>En Anonyme, nous ne pourrons pas vous recontacter.</h2>
             <p>(Les informations renseigner d'avant avoir sélectionner "Anonyme" sont gardé, pensez à les supprimer.)</p>
         </div>
-        <section>
+
+         <section>
             <p>
                 <label for="raison-conctact"><span aria-label="required"></span></label>
                 <select name="raison-conctact" id="raison-conctact">
@@ -47,15 +48,18 @@ require_once '../elements/header.php'
                     <option value="photo">Partagez vos photos</option>
                     <option value="presence-evenement">Présence à un évènemment</option>
                     <option value="autre">Autre</option>
-
                 </select>
+            </p>
+        </section>
+
         <div>
             <label for="redigez-un-message">Rédigez un message</label>
             <textarea name="redigez-un-message" id="redigez-un-message"></textarea>
         </div>
-            </p>
 
-        </section>    
+        <button type="submit">Envoyer</button>
+        
+
 </div>
 
 
