@@ -64,5 +64,5 @@ require_once  __DIR__ . '/../elements/header.php'
 
 
     </form>
-</div>
+
 <?php require_once  __DIR__ . '/../elements/footer.php' ?>
