@@ -1,0 +1,45 @@
+# Darkmod wish edition by _Fallen_System_
+
+html{
+    background-color: #303030;
+}
+
+
+/*
+# ==================================
+
+# skelleton 101 by _Fallen_System_
+
+*/
+.header-nav li {
+    border: solid pink 0.4em;
+} 
+
+.header-general div {
+    border: solid magenta 0.4em;
+}
+
+footer{
+    border: solid pink 0.4em;
+}
+
+footer div {
+    border: solid blue 0.4em;
+}
+
+.banniere h1{
+    border: solid greenyellow 0.4em;
+}
+
+.banniere p {
+    border: solid cyan 0.4em;
+}
+
+.footer-reseaux a{
+    border: solid purple 0.4em;
+}
+
+footer p{
+    border: solid orange 0.4em;
+ }
+ 
