@@ -45,7 +45,7 @@ require_once __DIR__ . '/../elements/header.php'
                     <p>
                         <label for="raison-conctact"><span aria-label="required"></span></label>
                         <select name="raison-conctact" id="raison-conctact">
-                            <option value="signalez-un problème-avec-la-meute">Signalez un problème</option>
+                            <option value="signalez-un problème-avec-la-meute">Signaler un problème</option>
                             <option value="demande-information">Conctater le staff</option>
                             <option value="probleme-avec-le-site-web">Signaler un bug</option>
                             <option value="photo">Partagez vos photos</option>
