@@ -1,11 +1,11 @@
 <?php
 $title = "Contact"; //on met le titre en référence à la mini-fonction dans le header
-require_once './elements/header.php' 
+require_once '../elements/header.php' 
  ?> 
 
 
 <div class="formulaire">
-    <form class="formulaire">
+    <form class="formulaire-form">
         <div class="titre-formulaire">
             <h1>Vous avez quelques choses à nous dire ? Contactez-nous !</h1>
         </div>
@@ -24,17 +24,22 @@ require_once './elements/header.php'
                 </div>
         </div>
         <div>
+            <label for="pseudo">Pseudo</label>
+            <input type="text" id="pseudo" name="pseudo">
+            
+        </div>
+        <div>
             <label for="email">Votre email :<span aria-label="required">*</span></label>
             <input id="email" type="email" name="email" require>
 
         </div>
         <div>
-            <h2>En Anonyme, nous ne pourrons pas vous recontacter.</h2>
+            <h3>En Anonyme, nous ne pourrons pas vous recontacter.</h2>
             <p>(Les informations renseigner d'avant avoir sélectionner "Anonyme" sont gardé, pensez à les supprimer.)</p>
         </div>
         <section>
             <p>
-                <label for="raison-conctact"></label>
+                <label for="raison-conctact"><span aria-label="required"></span></label>
                 <select name="raison-conctact" id="raison-conctact">
                     <option value="signalez-un problème-avec-la-meute">Signalez un problème</option>
                     <option value="demande-information">Conctater le staff</option>
@@ -44,16 +49,16 @@ require_once './elements/header.php'
                     <option value="autre">Autre</option>
 
                 </select>
+        <div>
+            <label for="redigez-un-message">Rédigez un message</label>
+            <textarea name="redigez-un-message" id="redigez-un-message"></textarea>
+        </div>
             </p>
 
-        </section>
-
-
-        
-        
+        </section>    
 </div>
 
 
     </form>
 </div>
-<? require_once './elements/footer.php' ?>
+<? require_once '../elements/footer.php' ?>
