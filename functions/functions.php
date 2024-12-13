@@ -6,12 +6,13 @@ function nav_item (string $lien, string $title, string $linkClass = ''): string
     if($_SERVER['SCRIPT_NAME'] === $lien) {
         $classe = $classe . ' active';
     }
-return <<<HTML 
+
+return <<<HTML
 <li class="$classe"> 
     <a class="$linkClass $classe" aria-current="page" href="$lien">$title</a>
 </li>
 HTML;
-} 
+}
 
 
 //fonction pour le menu de navigation 
@@ -26,4 +27,5 @@ function nav_menu(string $linkClass = ''):string //on créer la fonction
     nav_item('../pages/galery.php', 'Galerie', $linkClass) .
     nav_item('../pages/use-link', 'Liens utiles', $linkClass) ;
 }
+
 ?>
