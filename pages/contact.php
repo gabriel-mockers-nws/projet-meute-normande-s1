@@ -12,26 +12,26 @@ require_once __DIR__ . '/../elements/header.php'
         </div>
 
         <div class="information-formulaire">
-                <div>
+                <div class="categorie-formulaire">
                     <label>Choisissez une option*</label>
-                    <input type="text">
+                    <input class="block-formulaire" type="text">
                 </div>
                 <div class="form-prenom-nom">
-                    <div>
+                    <div class="categorie-formulaire">
                         <label for="username">Nom:<span aria-label="required">*</span></label>
                         <input class="block-formulaire" id="username" type="text" name="username" required />
                     </div>
-                    <div>
+                    <div class="categorie-formulaire">
                         <label for="first-name">Prénom:<span aria-label="required">*</span></label>
                         <input class="block-formulaire" id="first-name" type="text" name="first-name" required />
                     </div>
                 </div>
-                <div>
+                <div class="categorie-formulaire">
                     <label for="pseudo">Pseudo</label>
                     <input class="block-formulaire" type="text" id="pseudo" name="pseudo"> 
                 </div>
 
-                <div>
+                <div class="categorie-formulaire">
                     <label for="email">Votre email :<span aria-label="required">*</span></label>
                     <input class="block-formulaire" id="email" type="email" name="email" require>
                 </div>
@@ -55,7 +55,7 @@ require_once __DIR__ . '/../elements/header.php'
                     </p>
                 </section>
 
-                <div>
+                <div class="categorie-formulaire">
                     <label for="redigez-un-message">Rédigez un message</label>
                     <textarea class="block-formulaire" name="redigez-un-message" id="redigez-un-message"></textarea>
                 </div>
