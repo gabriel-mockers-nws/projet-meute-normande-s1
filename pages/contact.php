@@ -37,7 +37,7 @@ require_once __DIR__ . '/../elements/header.php'
                 </div>
 
                 <div>
-                    <h3>En Anonyme, nous ne pourrons pas vous recontacter.</h2>
+                    <p style="color: red;">En Anonyme, nous ne pourrons pas vous recontacter. </p>
                     <p>(Les informations renseigner d'avant avoir sélectionner "Anonyme" sont gardé, pensez à les supprimer.)</p>
                 </div>
 

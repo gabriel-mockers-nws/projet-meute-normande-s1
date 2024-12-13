@@ -108,7 +108,6 @@ ul {
 
 li {
     list-style: none;
-
 }
 
 
@@ -152,7 +151,7 @@ li {
     position: fixed;
     background-color: var(--color-primary);
     width: var(--max-width);
-    padding: 0 2vw;
+    
     vertical-align: middle;
     
 }
@@ -163,6 +162,8 @@ li {
 
 .boxe-header-connection{
     flex:auto;
+    right: auto;
+    padding: 0 10vw;
     
 }
 
@@ -227,14 +228,14 @@ li {
     padding: 2em;
     background-color: var(--color-primary);
     width: 45em;
-    height: 40em;
+    height: 45em;
     border-radius: 5%;
 }
 
 .titre-formulaire {
     justify-content: center;
     justify-items:center ;
-    font-family: var(--font-family-heading);
+    font-family: var(--font-family-base);
     font-size: var(--font-size-lg);
 }
 
@@ -262,6 +263,7 @@ li {
     border-width: var(--border-width);
     
 }
+
 
 .buttom-formulaire {
     width: 10em;
