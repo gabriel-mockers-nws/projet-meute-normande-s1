@@ -39,6 +39,7 @@
 /* Witdth*/ 
     --max-width: 100vw;
     --border-width:0 0 2px 0;
+    --colonne-small: 17.5;
 
 /*height*/
     --header-heihgt: 10vh;
@@ -228,12 +229,25 @@ li {
     
 }
 
-.galerie-liste-photo {
+.galerie-premier-colonne {
+    width: var(--colonne-small);
+    height: var(--main-height);
+}
+
+.nav-galerie-premier-colonne {
+    display: flex;
+}
+
+.galerie-deuxieme_colonne {
    background-color: #ff8a00;
    width: 65vw;
    height: var(--main-height);
 }
 
+.galerie-troisième-colonne {
+    width: var(--colonne-small);
+    height: var(--main-height);
+}
 
 
 
