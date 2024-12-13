@@ -4,6 +4,7 @@
 footer {
     display: flex;
     background-color: #F6F5F2;
+    height:5vh;
 }
 
 footer div {
