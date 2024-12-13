@@ -11,7 +11,7 @@ require_once __DIR__ . '/../elements/header.php'
                  Contactez-nous !</h1>
         </div>
 
-        <div class="">
+        <div class="information-formulaire">
                 <div>
                     <label>Choisissez une option*</label>
                     <input type="text">
@@ -19,21 +19,21 @@ require_once __DIR__ . '/../elements/header.php'
                 <div class="form-prenom-nom">
                     <div>
                         <label for="username">Nom:<span aria-label="required">*</span></label>
-                        <input id="username" type="text" name="username" required />
+                        <input class="block-formulaire" id="username" type="text" name="username" required />
                     </div>
                     <div>
                         <label for="first-name">Prénom:<span aria-label="required">*</span></label>
-                        <input id="first-name" type="text" name="first-name" required />
+                        <input class="block-formulaire" id="first-name" type="text" name="first-name" required />
                     </div>
                 </div>
                 <div>
                     <label for="pseudo">Pseudo</label>
-                    <input type="text" id="pseudo" name="pseudo"> 
+                    <input class="block-formulaire" type="text" id="pseudo" name="pseudo"> 
                 </div>
 
                 <div>
                     <label for="email">Votre email :<span aria-label="required">*</span></label>
-                    <input id="email" type="email" name="email" require>
+                    <input class="block-formulaire" id="email" type="email" name="email" require>
                 </div>
 
                 <div>
@@ -57,7 +57,7 @@ require_once __DIR__ . '/../elements/header.php'
 
                 <div>
                     <label for="redigez-un-message">Rédigez un message</label>
-                    <textarea name="redigez-un-message" id="redigez-un-message"></textarea>
+                    <textarea class="block-formulaire" name="redigez-un-message" id="redigez-un-message"></textarea>
                 </div>
 
                 <button type="submit">Envoyer</button>

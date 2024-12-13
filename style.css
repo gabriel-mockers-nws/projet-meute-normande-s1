@@ -38,6 +38,7 @@
 
 /* Witdth*/ 
     --max-width: 100vw;
+    --border-width:0 0 2px 0;
 
 /* Spacing */
     --spacing-2xs: 0.25rem;
@@ -234,6 +235,7 @@ footer div a{
 
 .formulaire {
     justify-items: center;
+
 }
  
 .formulaire-form {
@@ -254,8 +256,21 @@ footer div a{
     font-size: var(--font-size-lg);
 }
 
+.information-formulaire {
+    gap: 1em;
+    display: flex;
+    flex-direction: column;
+    
+}
+
 .form-prenom-nom {
     display: flex;
     gap: 2em;
+    
+}
+
+.block-formulaire{
+    background-color:var(--color-primary);
+    border-width: var(--border-width);
     
 }
