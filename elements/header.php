@@ -11,6 +11,7 @@ require_once __DIR__ . '/../functions/functions.php';
     <meta name="keyword" content="La meute Normande, furry, Normandie">
     <link rel="stylesheet" href="../style.css">
     <!--<link rel="stylesheet" href="../hilight.css">-->
+    <link rel="stylesheet" href="/css/footer.css">
     <script src="script.js"></script>
     <!-- on fait une fonction pour changer le titre de chaque page -->
     <title>
