@@ -28,6 +28,13 @@ require_once './elements/header.php'
             <input id="email" type="email" name="email" require>
 
         </div>
+        <div>
+            <h2>En Anonyme, nous ne pourrons pas vous recontacter.</h2>
+            <p>(Les informations renseigner d'avant avoir sélectionner "Anonyme" sont gardé, pensez à les supprimer.)</p>
+        </div>
+        
+
+
         
         
 </div>
