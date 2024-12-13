@@ -3,10 +3,10 @@ $title = "Acceuil";
 require_once 'elements/header.php'; ?>
 
   <div class="banniere">
-    <h1> Bienvenue sur le site de <br>
+    <div class="backgroud-text"></div><h1> Bienvenue sur le site de <br>
           La Meute Normande </h1>
 
-    <p>Un groupe de furry Normand passionné par l'art anthropomorphique</p>
+    <p class="texte-bannière">Un groupe de furry Normand passionné par l'art anthropomorphique</p>
   </div>
   
 
