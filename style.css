@@ -206,6 +206,12 @@ li {
     color: aliceblue;
 }
 
+
+
+
+
+
+
 /*Page Formulaire*/
 
 .formulaire {
@@ -236,6 +242,12 @@ li {
     display: flex;
     flex-direction: column;
     
+}
+
+.categorie-formulaire {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
 }
 
 .form-prenom-nom {
