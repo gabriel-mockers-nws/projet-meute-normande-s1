@@ -83,6 +83,7 @@ header {
 
 main {
     padding-top: var(--spacing-3xl);
+    min-height: 85vh;
 }
 
 
@@ -260,4 +261,11 @@ li {
     background-color:var(--color-primary);
     border-width: var(--border-width);
     
+}
+
+.buttom-formulaire {
+    width: 10em;
+    justify-content: center;
+    justify-items: center;
+    padding: auto;
 }

@@ -60,7 +60,9 @@ require_once __DIR__ . '/../elements/header.php'
                     <textarea class="block-formulaire" name="redigez-un-message" id="redigez-un-message"></textarea>
                 </div>
 
-                <button type="submit">Envoyer</button>
+                <div class="buttom-formulaire">
+                    <button class="buttom-formulaire" type="submit">Envoyer</button>
+                </div>
         
         </div>
     </form>
