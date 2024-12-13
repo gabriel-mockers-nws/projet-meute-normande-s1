@@ -1,3 +1,6 @@
+<?php 
+require_once 'functions/functions.php';
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -28,21 +31,7 @@
             </div>
             <div class="header-nav">
                 <ul> 
-                    <li> 
-                        <a href="../pages/description.php">Qui somme-nous?</a>
-                    </li>
-                    <li> 
-                        <a href="../pages/galery.php">Galerie</a>
-                    </li>
-                    <li> 
-                        <a href="../pages/evenements.php">Événements</a>
-                    </li>
-                    <li> 
-                        <a href="../pages/contact.php">Conctact</a>
-                    </li>
-                    <li> 
-                        <a href="../pages/use-links.php">Liens utiles</a>
-                    </li>
+                    <?= nav_menu('nav-link'); ?>
                 </ul>
             </div>
             

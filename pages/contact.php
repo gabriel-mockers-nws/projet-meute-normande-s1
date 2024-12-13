@@ -1,6 +1,6 @@
 <?php
 $title = "Contact"; //on met le titre en référence à la mini-fonction dans le header
-require_once './elements/header.php' 
+require_once  __DIR__ . '/../elements/header.php' 
  ?> 
 
 
@@ -56,4 +56,4 @@ require_once './elements/header.php'
 
     </form>
 </div>
-<? require_once './elements/footer.php' ?>
+<?php require_once  __DIR__ . '/../elements/footer.php' ?>

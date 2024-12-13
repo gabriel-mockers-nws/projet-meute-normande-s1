@@ -1,6 +1,6 @@
-<? 
+<?php
 $title = "Evenement";
-require_once './elements/header.php' ?> 
+require_once  __DIR__ . '/../elements/header.php' ?> 
 
 <!-- Liste à faire sur cette page
 Ajout de la catégorie événements à venir
@@ -10,4 +10,4 @@ Ajout potentiel d'un système de like/d'intéressement-->
 
 
 
-<? require_once './elements/footer.php' ?> 
+<?php require_once  __DIR__ . '/../elements/footer.php' ?> 
