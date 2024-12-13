@@ -210,6 +210,12 @@ li {
 
 
 
+/*Page Gallerie*/
+
+.colonne-galerie {
+    display: flex;
+    flex-direction: column;
+}
 
 
 
@@ -271,3 +277,6 @@ li {
     justify-items: center;
     padding: auto;
 }
+
+
+
