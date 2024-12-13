@@ -221,3 +221,34 @@ footer div a{
     align-items: right;
     
 }
+
+
+/*Page Formulaire*/
+
+.formulaire {
+    justify-items: center;
+}
+ 
+.formulaire-form {
+    margin: 5em;
+    border: solid ;
+    justify-content: center;
+    padding: 2em;
+    background-color: var(--color-primary);
+    width: 45em;
+    height: 40em;
+    border-radius: 5%;
+}
+
+.titre-formulaire {
+    justify-content: center;
+    justify-items:center ;
+    font-family: var(--font-family-heading);
+    font-size: var(--font-size-lg);
+}
+
+.form-prenom-nom {
+    display: flex;
+    gap: 2em;
+    
+}
