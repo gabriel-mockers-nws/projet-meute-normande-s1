@@ -86,11 +86,6 @@ main {
 }
 
 
-footer {
-    display: flex;
-    background-color: #F6F5F2;
-}
-
 
 /* LAYOUT */
 
@@ -115,17 +110,6 @@ li {
 
 }
 
-footer div {
-    flex: 1 1 1.1em;
-    text-align: center;
-    padding: 0.1em 0;
-    display: flex;
-    flex-direction: row-reverse;
-}
-
-footer div a{
-    flex-basis: 10vw;
-}
 
 
 
@@ -221,15 +205,6 @@ footer div a{
     padding: 0 5vw;
     color: aliceblue;
 }
-
-
-.footer-copyright{
-    flex: 1 0 26vw;
-    font-size: 1.3vh;
-    align-items: right;
-    
-}
-
 
 /*Page Formulaire*/
 
