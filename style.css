@@ -68,6 +68,14 @@ nav a {
     text-decoration: none;
 }
 
+main {
+    padding-top: 4rem;
+}
+
+header {
+    position: relative;
+}
+
 /* LAYOUT */
 
 p{
