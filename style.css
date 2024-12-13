@@ -129,7 +129,13 @@ footer div a{
 
 .header-nav ul{
     display: flex;
+    font-family: var(--font-family-heading);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: var(--font-size-base);
+    color: var(--color-orange);
 }
+
 
 .header-nav a {
     text-transform: uppercase;
