@@ -22,7 +22,13 @@ require_once './elements/header.php'
                     <label for="first-name">Prénom&nbsp;:<span aria-label="required">*</span></label>
                     <input id="first-name" type="text" name="first-name" required />
                 </div>
-            </div>
+        </div>
+        <div>
+            <label for="email">Votre email :<span aria-label="required">*</span></label>
+            <input id="email" type="email" name="email" require>
+
+        </div>
+        
         
 </div>
 
