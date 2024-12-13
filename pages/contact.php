@@ -33,8 +33,19 @@ require_once './elements/header.php'
             <p>(Les informations renseigner d'avant avoir sélectionner "Anonyme" sont gardé, pensez à les supprimer.)</p>
         </div>
         <section>
-            <h2>Quel est la raison de votre contact*</h2>
-            
+            <p>
+                <label for="raison-conctact"></label>
+                <select name="raison-conctact" id="raison-conctact">
+                    <option value="signalez-un problème-avec-la-meute">Signalez un problème</option>
+                    <option value="demande-information">Conctater le staff</option>
+                    <option value="probleme-avec-le-site-web">Signaler un bug</option>
+                    <option value="photo">Partagez vos photos</option>
+                    <option value="presence-evenement">Présence à un évènemment</option>
+                    <option value="autre">Autre</option>
+
+                </select>
+            </p>
+
         </section>
 
 
