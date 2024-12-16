@@ -8,6 +8,15 @@ Mise en avant des événements du mois
 Ajout potentiel d'un système de like/d'intéressement-->
 
 
-
+<section class="hero-section">
+ <h1 class="hero-title">
+    Évènements du mois
+</h1>
+</section>
+<section class="corps-section">
+    <h1 class="corps-title">
+        Évènements à venir (2025)
+    </h1>
+</section>
 
 <?php require_once  __DIR__ . '/../elements/footer.php' ?> 
