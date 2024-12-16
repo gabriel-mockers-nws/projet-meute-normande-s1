@@ -17,6 +17,17 @@ Ajout potentiel d'un système de like/d'intéressement-->
     <h1 class="corps-title">
         Évènements à venir (2025)
     </h1>
+    
+</section>
+<section class="bot-section">
+    <div>
+        <a href="/pages/galery.php">
+            <img src="" alt=""/>
+        </a>
+    </div>
+    <h1 class="bot-title">
+        Évènements passés
+    </h1>
 </section>
 
 <?php require_once  __DIR__ . '/../elements/footer.php' ?> 
