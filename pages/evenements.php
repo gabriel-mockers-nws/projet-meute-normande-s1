@@ -1,5 +1,5 @@
 <?php
-$title = "Evenement";
+$title = "Evenements";
 require_once  __DIR__ . '/../elements/header.php' ?> 
 
 <!-- Liste à faire sur cette page
@@ -17,7 +17,7 @@ Ajout potentiel d'un système de like/d'intéressement-->
     <h1 class="corps-title">
         Évènements à venir (2025)
     </h1>
-    
+
 </section>
 <section class="bot-section">
     <div>
