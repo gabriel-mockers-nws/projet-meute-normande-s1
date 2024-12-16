@@ -14,10 +14,56 @@ Ajout potentiel d'un système de like/d'intéressement-->
 </h1>
 </section>
 <section class="corps-section">
-    <h1 class="corps-title">
+    <div class="corps-section-title">
+        <h1 class="corps-title">
         Évènements à venir (2025)
-    </h1>
+        </h1>
+    </div>
+    <div>
 
+
+
+        <!-- 
+    
+    Janvier:
+    - 
+
+    Février:
+    - 
+    
+    Mars:
+    - 
+    
+    Avril:
+    - North Con Japan Le Havre → 5 et 6 Avril 2025 au Carré des Docks, Le Havre (76)
+    - 
+    
+    Mai:
+    - 
+
+    Juin:
+    - 
+
+    juillet:
+    - 
+
+    Août:
+    - 
+        
+    Septembre:
+    - 
+        
+    Octobre:
+    - 
+    - Chibi Rouen → 25 et 26 octobre 2025 au Parc des expositions, Rouen (76)
+    
+    Novembre:
+    /
+
+    Décembre:
+    /
+        -->
+    </div>
 </section>
 <section class="bot-section">
     <div>
