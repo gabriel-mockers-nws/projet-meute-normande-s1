@@ -48,6 +48,7 @@ Ajout potentiel d'un système de like/d'intéressement-->
 
     juillet:
     - Japan Expo Paris → Du 3 au 6 Juillet au Parc des expositions, Villepinte (93)
+    - Les Médiévales de Clères → dates non communiquées, Clères
 
     Août:
     - Les Historiques de Robert le Diable → dates non communiquées, Moulineaux
