@@ -97,6 +97,11 @@ li {
   list-style: none;
 }
 
+h2 {
+  margin: 0;
+  font-size: var(--font-size-lg);
+}
+
 /* COMPONENTS */
 .header-nav {
   flex: auto;
@@ -184,6 +189,29 @@ li {
   color: aliceblue;
 }
 
+.titre-insta {
+  margin: inherit;
+}
+.instagram {
+  
+  margin-left: 25em;
+  margin-right: 25em;
+  background-color: var(--color-primary);
+}
+
+.feed-insta {
+  display: grid;
+  grid-template-columns: 25fr 25fr;
+  
+ 
+  
+  
+  
+}
+
+.box{
+  width: 400px;
+}
 /*Page Gallerie*/
 
 .colonne-galerie {
