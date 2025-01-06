@@ -52,7 +52,7 @@
   --spacing-lg: 1.5rem;
   --spacing-xl: 3rem;
   --spacing-2xl: 4rem;
-  --spacing-3xl: 5.9rem;
+  --spacing-3xl: 5rem;
 }
 /* BASE */
 
@@ -143,7 +143,6 @@ li {
 }
 
 .boxe-header-connection {
-  flex: auto;
   right: auto;
   padding: 0 10vw;
 }
