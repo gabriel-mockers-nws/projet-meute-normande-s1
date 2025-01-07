@@ -99,8 +99,11 @@ li {
 
 h2 {
   margin: 0;
-  font-size: var(--font-size-lg);
+  font-size: 40px;
   list-style: none;
+  width: 650px;
+
+
 }
 
 /* COMPONENTS */
@@ -174,7 +177,7 @@ h2 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 80vh;
+  height: 90vh;
   box-shadow: inset 0 0 0 100em #50505080;
 }
 
@@ -192,22 +195,21 @@ h2 {
 
 .titre-insta {
   margin: inherit;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 .instagram {
-  
+  padding-left: 2em;
+  padding-right: 2em;
   margin-left: 25em;
   margin-right: 25em;
-  background-color: var(--color-primary);
-}
+  background-color: var(--color-primary);  }
+ 
 
 .feed-insta {
+  gap: 10px;
   display: grid;
-  grid-template-columns: 25fr 25fr;
-  
- 
-  
-  
-  
+  grid-template-columns: 25fr 25fr; 
 }
 
 .box{
