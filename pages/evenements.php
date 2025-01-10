@@ -20,16 +20,13 @@ Ajout potentiel d'un système de like/d'intéressement-->
         </h1>
     </div>
     <div>
-        <h3>Janvier</h3>
-
+        <h3>Février</h3>
+            <p>
+                - Normania → Les 8 et 9 Février au Parc des Expos, Rouen (76)
+                - Monti'Geek → le 22 Février au Gymnase Christian Grand, Montivillers (76)
+            </p>
 
         <!-- 
-    
-    Janvier:
-    /
-
-    Février:
-    /
     
     Mars:
     - Paris Manga et Sci-Fi Show → Les 15 et 16 mars au Parc des Expos, Villepinte (93)
